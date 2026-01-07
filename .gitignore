@@ -1,0 +1,4 @@
+tmp/llvm/*
+tmp/llvm-project/*
+
+!/tmp/llvm/.dummy
